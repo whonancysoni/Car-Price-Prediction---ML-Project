@@ -3,10 +3,10 @@
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iamnancysoni/Car-Price-Prediction-Project?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/iamnancysoni/Car-Price-Prediction-Project?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/iamnancysoni/Car-Price-Prediction-Project?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/iamnancysoni/Car-Price-Prediction-Project?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/iamnancysoni/Car-Price-Prediction---ML-Project?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/iamnancysoni/Car-Price-Prediction---ML-Project?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/iamnancysoni/Car-Price-Prediction---ML-Project?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/iamnancysoni/Car-Price-Prediction---ML-Project?color=red&style=plastic)
 
 
 <h1>Car Dekho Price Prediction</h1>
